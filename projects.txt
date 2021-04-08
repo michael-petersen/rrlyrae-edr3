@@ -1,0 +1,5 @@
+1. BHB-BS separation. Work with larger sample of spectra in a wider window. With the Sgr selection, try to come up with a better classification system.
+
+2. MaNGA data. Perform BFE fits, to various quantities. Try out the noise projection.
+
+3. Katelin should be running new simulations. Tailor the satellites to create new models, -or- run BFE simulations after the fact to make higher-resolution samples.
