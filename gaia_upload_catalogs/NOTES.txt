@@ -1,0 +1,4 @@
+These are the upload tables for cross-matching with Gaia.
+1. RR Lyrae (AB type) from a cross-match of the Gaia variable tables
+2. Stars purported to be in the Magellanic trailing stream from Zaritsky (2020)
+3. Stars purported to be a cluster in the leading arm gas of the Magellanic stream from Nidever (2019)
